@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 ## 服務條款和細則 (簡稱“條款和細則”)
